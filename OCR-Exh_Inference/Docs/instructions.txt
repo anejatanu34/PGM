@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------------------
+OCR Data
+---------------------------------------------------------------------------------------
+Data for OCR Model is taken fom OCRdataset folder trans.dat and ocr.dat are potentials
+and tests can be found in data folder
+
+---------------------------------------------------------------------------------------
+output File
+------------------------------------------------------------------------------------
+Find in Results folder
+Accuracies can be found at the lst of file
+
+-----------------------------------------------------------------------------------------
+To change input / output files
+-----------------------------------------------------------------------------------------
+1)Refer Line no:21 in PGM_1_B.java to change file names of input potentials and test data
+2)Refer Line no:29 in PGM_1_B.java to change file names of ouput file
