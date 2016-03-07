@@ -1,21 +1,19 @@
 # POS and NER tagging of Tweets
 
 Features were identified and attached for efficient labelling of twitter data using a **CRF** and **HMM** 
-
 model tagger MALLET
 
 # Synopsis
 
 For labelling POS and NER tags to twitter data features were first added to the data in the format specified 
-
 by MALLET.Around 72% accuracy had been achieved
 
 
-Overview of results can be found [here](https://github.com/saivig/PGM/blob/master/OCR-Exh_Inference/Docs/Observations.pdf)
+Overview of results can be found [here](https://github.com/saivig/PGM/blob/master/CRF-POS_NER/Docs/Writeup.pdf)
 
 #References
 
-1. [Description](https://github.com/saivig/PGM/blob/master/OCR-Exh_Inference/Docs/Description.pdf)
+1. [Description](https://github.com/saivig/PGM/blob/master/CRF-POS_NER/Docs/Description.pdf)
 
 2. [Part-of-Speech Tagging for Twitter: Annotation, Features, and Experiments](http://www.cs.cmu.edu/~ark/TweetNLP/gimpel+etal.acl11.pdf)
 
@@ -23,7 +21,7 @@ Overview of results can be found [here](https://github.com/saivig/PGM/blob/maste
 
 # How to run
 
-Make sure you have MALLET installed first.if not refer [here](http://mallet.cs.umass.edu/download.php) 
+Make sure you have MALLET installed first if not refer [here](http://mallet.cs.umass.edu/download.php) 
 
 To execute code Run command 
 
