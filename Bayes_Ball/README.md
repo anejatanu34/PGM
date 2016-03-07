@@ -1,6 +1,6 @@
 # Bayes Ball
 
-Algorthim to identify indepencies efficiently in Bayesian Network
+Algorthim to identify independencies efficiently in Bayesian Network
 
 # Synopsis
 
@@ -18,7 +18,7 @@ in Belief Networks(bayesian networks) using the [Bayes Ball algorthim](http://ww
 
 1)[Bayes-Ball: The Rational Pastime](http://arxiv.org/abs/1301.7412)
 
-2)Breif Summary of Paper written by me - [Link]()
+2)Breif Summary of above Paper written by me - [Link](https://github.com/saivig/PGM/blob/master/Bayes_Ball/Docs/Summary.pdf)
 
 # How to run
 
@@ -30,7 +30,7 @@ in your source folder
 
 #Input / Output
 
-For Input and Output instructions read Docs/instructions.txt
+For Input and Output instructions read[Docs/instructions.txt](https://github.com/saivig/PGM/blob/master/Bayes_Ball/Docs/instructions.txt)
 
 # Contributors
 
@@ -42,4 +42,4 @@ This work has been done as a part of assignment during course PGM(COL776) - [Pro
 
 Copyright (C) 2015  Sai Vignan K
 
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+This program is not a free software;If you want to use it please contact me
