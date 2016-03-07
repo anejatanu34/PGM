@@ -6,9 +6,7 @@ Approximate Inference using Gibbs Sampling on undirected graphical Models
 
 Implemented the OCR Model with additional skip-pair factors and Gibbs Sampling 
 
-For Results go to [results](https://github.com/saivig/PGM/tree/master/OCR-Exh_Inference/results) folder
-
-Overview of results can be found [here](https://github.com/saivig/PGM/blob/master/OCR-Exh_Inference/Docs/Observations.pdf)
+Overview of results can be found [here](https://github.com/saivig/PGM/blob/master/OCR-Gibbs_Sampling/Docs/Results.pdf)
 
 #References
 
@@ -30,7 +28,7 @@ in your source folder
 
 #Input / Output
 
-For Input and Output instructions read [Docs/instructions.txt](https://github.com/saivig/PGM/blob/master/OCR-Exh_Inference/Docs/instructions.txt)
+For Input and Output instructions read [Docs/instructions.txt](https://github.com/saivig/PGM/blob/master/OCR-Gibbs_Sampling/Docs/instructions.txt)
 
 # Contributors
 
