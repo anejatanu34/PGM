@@ -16,19 +16,19 @@ Three type of models are created
 
 and Exhaustive Inference was done to know accuracies of the model using various metrics
 
-For Results go to [reults] folder
+For Results go to [results](https://github.com/saivig/PGM/tree/master/OCR-Exh_Inference/results) folder
 
-Overview of results can be found [here]()
+Overview of results can be found [here](https://github.com/saivig/PGM/blob/master/OCR-Exh_Inference/Docs/Observations.pdf)
 
 #References
 
-1. [Model Description]()
+1. [Model Description](https://github.com/saivig/PGM/blob/master/OCR-Exh_Inference/Docs/Description.pdf)
 
 2. [Maximum Entropy Markov Models for Information Extraction and Segmentation.](https://people.cs.umass.edu/~mccallum/papers/memm-icml2000.ps)
 
 3. [Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data](https://people.cs.umass.edu/~mccallum/papers/crf-icml01.ps)
 
-4. Breif Summary of above Papers written by me - [Link](https://github.com/saivig/PGM/blob/master/Bayes_Ball/Docs/Summary.pdf)
+4. Breif Summary of above Papers written by me - [Link](https://github.com/saivig/PGM/blob/master/OCR-Exh_Inference/Docs/Summary.pdf)
 
 # How to run
 
@@ -43,7 +43,7 @@ OCR + transition+ Skip Model respectively
 
 #Input / Output
 
-For Input and Output instructions read [Docs/instructions.txt](https://github.com/saivig/PGM/blob/master/Bayes_Ball/Docs/instructions.txt)
+For Input and Output instructions read [Docs/instructions.txt](https://github.com/saivig/PGM/blob/master/OCR-Exh_Inference/Docs/instructions.txt)
 
 # Contributors
 
