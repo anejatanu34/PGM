@@ -6,19 +6,19 @@ Algorthim to identify independencies efficiently in Bayesian Network
 
 Implemented the Bayes Ball algorithm for computing the set of 
 
-1)d-separated nodes
+1. d-separated nodes
 
-2)Requisite probability nodes
+2. Requisite probability nodes
 
-3)Requisite observation nodes
+3. Requisite observation nodes
 
 in Belief Networks(bayesian networks) using the [Bayes Ball algorthim](http://www.wikicoursenote.com/wiki/Stat946f11#Bayes_Ball)
 
 #References
 
-1)[Bayes-Ball: The Rational Pastime](http://arxiv.org/abs/1301.7412)
+1. [Bayes-Ball: The Rational Pastime](http://arxiv.org/abs/1301.7412)
 
-2)Breif Summary of above Paper written by me - [Link](https://github.com/saivig/PGM/blob/master/Bayes_Ball/Docs/Summary.pdf)
+2. Breif Summary of above Paper written by me - [Link](https://github.com/saivig/PGM/blob/master/Bayes_Ball/Docs/Summary.pdf)
 
 # How to run
 
@@ -30,7 +30,7 @@ in your source folder
 
 #Input / Output
 
-For Input and Output instructions read[Docs/instructions.txt](https://github.com/saivig/PGM/blob/master/Bayes_Ball/Docs/instructions.txt)
+For Input and Output instructions read [Docs/instructions.txt](https://github.com/saivig/PGM/blob/master/Bayes_Ball/Docs/instructions.txt)
 
 # Contributors
 
