@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------------------
+OCR Data
+---------------------------------------------------------------------------------------
+Data for OCR Model is taken fom OCRdataset-2 folder trans.dat and ocr.dat are potentials
+and tests can be found in data folder
+
+---------------------------------------------------------------------------------------
+output Format
+------------------------------------------------------------------------------------
+Results are printed to terminal in format of
+Current_iter_num Word_Accuracy
+
+-----------------------------------------------------------------------------------------
+To change input / output files
+-----------------------------------------------------------------------------------------
+1)Refer Line no:20 in PGM_3_1.java to change file names of input potentials and test data
+2)Refer Line no:21,24 in PGM_3_1.java to change Sample Size,Initial Sample,burnin sample percentage
